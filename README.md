@@ -25,7 +25,6 @@ Here's a walkthrough of implemented features:
 
 [Video Walkthrough](https://imgur.com/a/Pbr0F2X)
 
-https://imgur.com/a/Pbr0F2X
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 
